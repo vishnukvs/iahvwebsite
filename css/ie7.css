@@ -1,0 +1,5 @@
+/****************
+Microsoft, please, just STOP developing any kind of browsers. FOREVER
+--------------------------------------------------------- */
+ul.arrow li, ul.tick li, ul.user li, ul.plus li, ul.thumbs-up li, ul.ok li, ul.star li, ul.smiley li { list-style: disc; }
+ul.tags li { display: block; float: left; }

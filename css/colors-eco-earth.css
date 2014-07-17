@@ -1,0 +1,52 @@
+/* BACKGROUND IMAGE
+--------------------------------------------------------- */
+body { background-image: url('../imgs/backpattern2.jpg'); }
+
+/* LINK COLOR (for example red)
+--------------------------------------------------------- */
+a { color: #E75A2D; }
+input[type=submit], input[type=button], button, .button { background: #E75A2D; }
+
+/* MAIN COLOR (for example brown)
+--------------------------------------------------------- */
+nav#mainmenu { background: #8a6741; }
+nav#mainmenu ul li ul.sub-menu { border-bottom-color: #8a6741; }
+#search-box { background: #8a6741; }
+#circle-pager a:after { color: #8a6741; }
+.feature:hover .circle { background: #8a6741; }
+.feature .circle:after { background: #8a6741; }
+.carousel-vert4 ul li h3 a:after { color: #8a6741; }
+#content .pricing th.heading { background: #8a6741; }
+.accordion-style1 .accordion-title a.active:before { background: #8a6741; }
+.accordion-style2 .accordion-title a.active:before { background: #8a6741; }
+#footer { background: #8a6741; }
+
+/* DARKER MAIN COLOR (for example dark brown)
+--------------------------------------------------------- */
+nav#mainmenu:before { border-bottom-color: #342117; }
+nav#mainmenu:after { border-bottom-color: #342117; }
+
+/* LIGHTER MAIN COLOR (for example light brown)
+--------------------------------------------------------- */
+nav#mainmenu ul li a:hover, nav#mainmenu ul li a.active, nav#mainmenu ul li a.active-parent { background: #D8AC56; }
+nav#mainmenu ul li ul.sub-menu { background: #D8AC56; }
+#circle-pager a.activeSlide:after { color: #D8AC56; }
+.carousel-vert4 ul li:hover { background: #D8AC56; }
+#content .pricing table.highlighted th.heading { background: #D8AC56; }
+#footer .button, #footer input[type=submit], #footer  input[type=button], #wrapperbox #footer button { background-color: #D8AC56; }
+.footerbox ul li i { background: #D8AC56; }
+#footer a:not(.button):hover { color: #D8AC56; }
+
+/* COMPLIMENTARY COLOR (for example green)
+--------------------------------------------------------- */
+#wrapperbox { border-top-color: #a7b03d; }
+.slide-text p { background: #a7b03d; }
+.carousel4 li a.popup:hover { background: #a7b03d; }
+.quote .author { background: #a7b03d; }
+ul.tabs li.active a  { border-top-color: #a7b03d; }
+ul.tags li a.active { background: #a7b03d; border-color: #a7b03d; }
+.vertical-tabs ul.tabs li.active a  { border-left-color: #a7b03d; }
+.team-member img:hover { border-bottom-color: #a7b03d; }
+.loop-pagination span.current { background: #a7b03d; border-color: #a7b03d; }
+.gallery-icon a:hover { background: #a7b03d; }
+

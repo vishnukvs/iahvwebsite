@@ -1,0 +1,48 @@
+/* BACKGROUND IMAGE
+--------------------------------------------------------- */
+body { background-image: url('../imgs/backpattern1.jpg'); }
+
+/* MAIN COLOR (for example blue)
+--------------------------------------------------------- */
+a { color: #0090EC; }
+input[type=submit], input[type=button], button, .button { background: #0090EC; }
+nav#mainmenu { background: #0090EC; }
+nav#mainmenu ul li ul.sub-menu { border-bottom-color: #0090EC; }
+#search-box { background: #0090ec; }
+#circle-pager a:after { color: #0090EC; }
+.feature:hover .circle { background: #0090EC; }
+.feature .circle:after { background: #0090EC; }
+.carousel-vert4 ul li h3 a:after { color: #0090EC; }
+#content .pricing th.heading { background: #0090EC; }
+.accordion-style1 .accordion-title a.active:before { background: #0090EC; }
+.accordion-style2 .accordion-title a.active:before { background: #0090EC; }
+#footer { background: #0090EC; }
+
+/* DARKER MAIN COLOR (for example dark blue)
+--------------------------------------------------------- */
+nav#mainmenu:before { border-bottom-color: #0071BB; }
+nav#mainmenu:after { border-bottom-color: #0071BB; }
+
+/* LIGHTER MAIN COLOR (for example light blue)
+--------------------------------------------------------- */
+nav#mainmenu ul li a:hover, nav#mainmenu ul li a.active, nav#mainmenu ul li a.active-parent { background: #6ec0f6; }
+nav#mainmenu ul li ul.sub-menu { background: #6ec0f6; }
+#circle-pager a.activeSlide:after { color: #6ec0f6; }
+.carousel-vert4 ul li:hover { background: #6EC0F6; }
+#content .pricing table.highlighted th.heading { background: #6EC0F6; }
+#footer .button, #footer input[type=submit], #footer  input[type=button], #wrapperbox #footer button { background-color: #6EC0F6; }
+.footerbox ul li i { background: #6EC0F6; }
+#footer a:not(.button):hover { color: #6EC0F6; }
+
+/* COMPLIMENTARY COLOR (for example green)
+--------------------------------------------------------- */
+#wrapperbox { border-top-color: #2DAB8B; }
+.slide-text p { background: #2DAB8B; }
+.carousel4 li a.popup:hover { background: #2DAB8B; }
+.quote .author { background: #2DAB8B; }
+ul.tabs li.active a  { border-top-color: #2DAB8B; }
+ul.tags li a.active { background: #2DAB8B;  border-color: #2DAB8B; }
+.vertical-tabs ul.tabs li.active a  { border-left-color: #2DAB8B; }
+.team-member img:hover { border-bottom-color: #2DAB8B; }
+.loop-pagination span.current { background: #2DAB8B; border-color: #2DAB8B; }
+.gallery-icon a:hover { background: #2DAB8B; }

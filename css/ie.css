@@ -1,0 +1,6 @@
+/****************
+Microsoft, please, just STOP developing any kind of browsers. FOREVER
+--------------------------------------------------------- */
+nav#mainmenu > ul > li > a:after { content: ""; }
+.slide-image { background:none !important; filter:none !important; }
+.carousel4 li a.popup:after { display: none; }
