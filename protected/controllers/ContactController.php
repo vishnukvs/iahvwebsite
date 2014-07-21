@@ -71,13 +71,9 @@ class ContactController extends Controller
 		{
 			$model->attributes=$_POST['Contact'];
 			if($model->save())
-				$this->render('thanks',array(
-			'model'=>$model,
-		));
-				
+				$this->redirect(array('thanks/'));
 		}
-
-		$this->render('create',array(
+		 $this->render('create',array(
 			'model'=>$model,
 		));
 	}

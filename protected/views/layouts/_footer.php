@@ -45,6 +45,11 @@
 			<p class="left small">Copyright &copy;<?php echo date('Y'); ?> IAHV (Australia). <br />All rights reserved.</p>
 			<div class="clear"></div>
 		</div>  <!-- END .wrapper -->
+		<div class="admin">
+			<ul>
+			<li><?php echo CHtml::link('Admin',array('/user/create')); ?></li>
+		</ul>
+		</div>
 	</footer>
 </div> <!-- END #wrapperbox -->
 <br class="clear" /> <!-- This is the end, my friend -->
