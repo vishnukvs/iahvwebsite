@@ -46,9 +46,9 @@
 			<div class="clear"></div>
 		</div>  <!-- END .wrapper -->
 		<div class="admin">
-			<ul>
-			<li><?php echo CHtml::link('Admin',array('/user/create')); ?></li>
-		</ul>
+			
+		<?php echo CHtml::link('Admin',array('/user/create')); ?>
+		
 		</div>
 	</footer>
 </div> <!-- END #wrapperbox -->
