@@ -57,3 +57,4 @@
 			</div>
 		</nav> <!-- END #mainmenu -->
 	</header>
+	<div class="clear"><input type="submit" value="Nepal Relief " name="subscribe" id="mc-embedded-subscribe" class="button"></div>
